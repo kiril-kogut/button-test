@@ -1,0 +1,39 @@
+.error, .error svg {
+  color: red;
+  border-color: red;
+  fill: red;
+}
+
+.error:hover, .error:hover svg {
+  color: orange;
+  border-color: orange;
+  fill: orange;
+}
+
+.success {
+  color: green;
+  border-color: green;
+  fill: green;
+}
+
+.success:hover, .success:hover svg {
+  color: greenyellow;
+  border-color: greenyellow;
+  fill: greenyellow;
+}
+
+.default, .default svg {
+  color: black;
+  border-color: black;
+  fill: black;
+}
+
+.default:hover, .default:hover svg {
+  color: gray;
+  border-color: gray;
+  fill: gray;
+}
+
+.largeFontSize {
+  font-size: 19px;
+}
